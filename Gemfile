@@ -11,4 +11,3 @@ end
 group :test do 
 gem "rspec"
 end
-© 2020 GitHub, Inc.
